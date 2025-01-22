@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aditya! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Automation+Enthusiast;AI+Explorer;Thumbnail+Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Automation+Enthusiast;AI+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,14 +36,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya3403&theme=radical&margin-w=10" alt="Trophies" />
-</div>
-
----
-
 ## 📚 My Projects
 
 - **[ShareChat](https://github.com/Aditya3403/sharechat)** - A real-time chat application built with MERN stack and Socket.io.
@@ -65,12 +57,6 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
-
----
-
-## 🎵 Music While Coding
-
-[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
 
 ---
 
