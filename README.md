@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Automation+Enthusiast;AI+Explorer" alt="Typing SVG" />
 </p>
 
----
-
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **real-time chat applications** & automation solutions.
@@ -14,15 +12,11 @@
 - 📫 How to reach me: [Email Me](mailto:adityabansal3403@gmail.com)
 - ⚡ Fun fact: I'm a **hardcore thumbnail artist 🎨**
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,redux,python,git,github,docker,kubernetes,jenkins" alt="Tech Stack" />
 </div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -34,15 +28,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya343&theme=radical" alt="Profile Summary" />
 </div>
 
----
-
 ## 📚 My Projects
 
 - **[ShareChat](https://github.com/Aditya3403/sharechat)** - A real-time chat application built with MERN stack and Socket.io.
 - **[E-commerce Web App](https://github.com/Aditya3403/ecommerce)** - A full-fledged online shopping platform with authentication & payment integration.
 - **[AI Image Upscaler](https://github.com/Aditya3403/ai-upscaler)** - An AI tool to enhance image resolutions up to 4K.
-
----
 
 ## 🌐 Connect With Me
 
@@ -57,7 +47,5 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
-
----
 
 ⭐ **Star my repos and let's connect!** 😄
