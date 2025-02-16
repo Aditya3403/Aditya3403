@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **real-time chat applications** & automation solutions.
-- 🌱 Exploring **Zapier automation** and **AI-driven** projects.
+- 🔭 I’m currently working on **real-time chat applications** & **AI based Applications**.
+- 🌱 Exploring **Mobile Development** and **AI-driven** projects.
 - 💡 Passionate about **solving real-world problems** with technology.
 - 📫 How to reach me: [Email Me](mailto:adityabansal3403@gmail.com)
 - ⚡ Fun fact: I'm a **hardcore thumbnail artist 🎨**
@@ -31,8 +31,8 @@
 ## 📚 My Projects
 
 - **[ShareChat](https://github.com/Aditya3403/sharechat)** - A real-time chat application built with MERN stack and Socket.io.
-- **[E-commerce Web App](https://github.com/Aditya3403/ecommerce)** - A full-fledged online shopping platform with authentication & payment integration.
-- **[AI Image Upscaler](https://github.com/Aditya3403/ai-upscaler)** - An AI tool to enhance image resolutions up to 4K.
+- **[E-commerce Web App](https://github.com/Aditya3403/YourMart)** - A full-fledged online shopping platform with authentication & payment integration.
+- **[All In One Image Application](https://github.com/Aditya3403/ai-upscaler)** - An AI tool to enhance image resolutions up to 4K.
 
 ## 🌐 Connect With Me
 
