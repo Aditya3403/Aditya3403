@@ -6,11 +6,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **real-time chat applications** & **AI based Applications**.
+- 🔭 I’m currently working on **AI based Applications**.
 - 🌱 Exploring **Mobile Development** and **AI-driven** projects.
 - 💡 Passionate about **solving real-world problems** with technology.
 - 📫 How to reach me: [Email Me](mailto:adityabansal3403@gmail.com)
-- ⚡ Fun fact: I'm a **hardcore thumbnail artist 🎨**
 
 ## 🛠️ Tech Stack
 
